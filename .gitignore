@@ -1,4 +1,6 @@
 # Byte-compiled / optimized / DLL files
+output.html
+
 __pycache__/
 *.py[cod]
 
